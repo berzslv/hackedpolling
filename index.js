@@ -22,7 +22,7 @@ const __dirname = dirname(__filename);
 const PORT = process.env.PORT || 3000;
 const TOKEN_MINT = '59TF7G5NqMdqjHvpsBPojuhvksHiHVUkaNkaiVvozDrk';
 // Use the correct staking vault address (mint authority)
-const STAKING_VAULT_ADDRESS = 'H3HzzDFaKW2cdXFmoTLu9ta4CokKu5nSCf3UCbcUTaUp';
+const STAKING_VAULT_ADDRESS = 'DAu6i8n3EkagBNT9B9sFsRL49Swm3H3Nr8A2scNygHS8';
 // Program ID is separate from the vault address where tokens are actually sent
 const STAKING_PROGRAM_ID = 'EnGhdovdYhHk4nsHEJr6gmV5cYfrx53ky19RD56eRRGm';
 const NETWORK = process.env.SOLANA_NETWORK || 'devnet';
